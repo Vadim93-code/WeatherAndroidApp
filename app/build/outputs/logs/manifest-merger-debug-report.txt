@@ -1,0 +1,309 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [androidx.databinding:viewbinding:7.0.4] C:\Users\vadim\.gradle\caches\transforms-3\53857e44d64b8ad4c15b55f01faeb4fd\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\vadim\.gradle\caches\transforms-3\3b05d164895cc36cc95e69ae28ba715d\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\vadim\.gradle\caches\transforms-3\630643b76a09fb7cc5aa4ba9339165a1\transformed\constraintlayout-2.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\vadim\.gradle\caches\transforms-3\905fe333c5bc15cea00f27a8065dfd17\transformed\appcompat-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\vadim\.gradle\caches\transforms-3\201ff9e35acbfef13078ef1b5b395269\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-location:19.0.0] C:\Users\vadim\.gradle\caches\transforms-3\4f258391c456cbd94b7712936aa4bbae\transformed\jetified-play-services-location-19.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\386c17e66fee01126451f28cb90f4432\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\vadim\.gradle\caches\transforms-3\fd26d50e7957999afbab2c54252048cf\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\ca54f1610848e40ce80e24abf9897077\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\62081428a2b2f4baed0a046d340304a9\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\vadim\.gradle\caches\transforms-3\5c8c72a2890e58198cb0ad66ee0d5433\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\84a90df9fae8fd5e07e8ec6c986dd663\transformed\jetified-play-services-tasks-18.0.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\dbede45aa9e5a362e289e226fb831903\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\vadim\.gradle\caches\transforms-3\a79267366428329fd38c6647e8a87d9d\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\vadim\.gradle\caches\transforms-3\7d74ae1ac320fd3f2b5803dae59687dc\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\vadim\.gradle\caches\transforms-3\f1bf67ae1ee715f53605f72c5268f49e\transformed\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\c28c5a1559d3badb5fe866be3f17f7bd\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\a9dd3aa6effdca4ee0ea00aced0d53e0\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\64dbb9b73a234f5769e476ac8b182df2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\vadim\.gradle\caches\transforms-3\83f2a8cd51855de09144e28d17fb44a0\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\12a157cfe5a821e275ea4d597c93f11a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\c6c76a0e5e4729466ddb6d8a1c7ba5c7\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\e66c5a28e5e036d8725b859789ded2ac\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\vadim\.gradle\caches\transforms-3\e5a9e26cebfa056af3786365f44dab3f\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\vadim\.gradle\caches\transforms-3\e352e8753dabd2d542aebab138dadcb9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\vadim\.gradle\caches\transforms-3\d06b5e8199902bf8c8840c4b34445b47\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\80898a9e8c1ed9a1bdaf237179aecac6\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\fdd20d3fe6e982a0dab3c7e285b8d31d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\vadim\.gradle\caches\transforms-3\530cde7aaafc6c6131b47291903bcec3\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\863b0b700e362afb70214928b7540f48\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\vadim\.gradle\caches\transforms-3\628769bcd175e0403afe19fd69a9f416\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\vadim\.gradle\caches\transforms-3\077c8b847a3309a378308438702c9b88\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\vadim\.gradle\caches\transforms-3\c5c5a3dde266f52e755c0ad0ba25044e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vadim\.gradle\caches\transforms-3\0832a9555e0c6175c40259f1560fe40c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\vadim\.gradle\caches\transforms-3\b2fa4e10ca74b5a3f0ebb739154e7437\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\827dbc1d303c18cb89039c3c20333671\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\5d72d0c22b62438a3421a13a70e97b23\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\vadim\.gradle\caches\transforms-3\0d4a8a54f7edd81d23f9ed38a70844a4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\vadim\.gradle\caches\transforms-3\f4f27c3b12ee71678b3e0efe5d75e5ae\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\vadim\.gradle\caches\transforms-3\0410eaa78d8ab00f8762c6d04e3328b1\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\vadim\.gradle\caches\transforms-3\76561bc8247c3768b82ea9833a8c8b77\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\79da0cdddce596985ad110fbd0dbc3e3\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\ee90e4b3025b83e4546e89a4d96edd27\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\16df8798a26fcaa1eee984fb4ea6db53\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\0b2c1379c6704d63de6a355ebf7abeed\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\vadim\.gradle\caches\transforms-3\b6ff4410f368071900a33f0426f728c3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:10:5-43:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\vadim\.gradle\caches\transforms-3\3b05d164895cc36cc95e69ae28ba715d\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\vadim\.gradle\caches\transforms-3\3b05d164895cc36cc95e69ae28ba715d\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\vadim\.gradle\caches\transforms-3\630643b76a09fb7cc5aa4ba9339165a1\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\vadim\.gradle\caches\transforms-3\630643b76a09fb7cc5aa4ba9339165a1\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:19.0.0] C:\Users\vadim\.gradle\caches\transforms-3\4f258391c456cbd94b7712936aa4bbae\transformed\jetified-play-services-location-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:19.0.0] C:\Users\vadim\.gradle\caches\transforms-3\4f258391c456cbd94b7712936aa4bbae\transformed\jetified-play-services-location-19.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\62081428a2b2f4baed0a046d340304a9\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\62081428a2b2f4baed0a046d340304a9\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\vadim\.gradle\caches\transforms-3\5c8c72a2890e58198cb0ad66ee0d5433\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\vadim\.gradle\caches\transforms-3\5c8c72a2890e58198cb0ad66ee0d5433\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\84a90df9fae8fd5e07e8ec6c986dd663\transformed\jetified-play-services-tasks-18.0.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\84a90df9fae8fd5e07e8ec6c986dd663\transformed\jetified-play-services-tasks-18.0.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\dbede45aa9e5a362e289e226fb831903\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\dbede45aa9e5a362e289e226fb831903\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\64dbb9b73a234f5769e476ac8b182df2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\64dbb9b73a234f5769e476ac8b182df2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\vadim\.gradle\caches\transforms-3\530cde7aaafc6c6131b47291903bcec3\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\vadim\.gradle\caches\transforms-3\530cde7aaafc6c6131b47291903bcec3\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vadim\.gradle\caches\transforms-3\0832a9555e0c6175c40259f1560fe40c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vadim\.gradle\caches\transforms-3\0832a9555e0c6175c40259f1560fe40c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\vadim\.gradle\caches\transforms-3\b2fa4e10ca74b5a3f0ebb739154e7437\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\vadim\.gradle\caches\transforms-3\b2fa4e10ca74b5a3f0ebb739154e7437\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\827dbc1d303c18cb89039c3c20333671\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\827dbc1d303c18cb89039c3c20333671\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\vadim\.gradle\caches\transforms-3\530cde7aaafc6c6131b47291903bcec3\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.weather.StartActivity
+ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:exported
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:18:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.weather.FavoriteCityDeteils
+ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:26:9-28:40
+	android:exported
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:27:13-48
+activity#com.example.weather.FavoriteActivity
+ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:29:9-31:40
+	android:exported
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:30:13-45
+activity#com.example.weather.MainActivity
+ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:32:9-42:20
+	android:screenOrientation
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:35:13-49
+	android:exported
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:34:13-36
+	android:theme
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:36:13-47
+	android:name
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml:33:13-41
+uses-sdk
+INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.4] C:\Users\vadim\.gradle\caches\transforms-3\53857e44d64b8ad4c15b55f01faeb4fd\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.4] C:\Users\vadim\.gradle\caches\transforms-3\53857e44d64b8ad4c15b55f01faeb4fd\transformed\jetified-viewbinding-7.0.4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\vadim\.gradle\caches\transforms-3\3b05d164895cc36cc95e69ae28ba715d\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\vadim\.gradle\caches\transforms-3\3b05d164895cc36cc95e69ae28ba715d\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\vadim\.gradle\caches\transforms-3\630643b76a09fb7cc5aa4ba9339165a1\transformed\constraintlayout-2.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\vadim\.gradle\caches\transforms-3\630643b76a09fb7cc5aa4ba9339165a1\transformed\constraintlayout-2.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\vadim\.gradle\caches\transforms-3\905fe333c5bc15cea00f27a8065dfd17\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\vadim\.gradle\caches\transforms-3\905fe333c5bc15cea00f27a8065dfd17\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\vadim\.gradle\caches\transforms-3\201ff9e35acbfef13078ef1b5b395269\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\vadim\.gradle\caches\transforms-3\201ff9e35acbfef13078ef1b5b395269\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:19.0.0] C:\Users\vadim\.gradle\caches\transforms-3\4f258391c456cbd94b7712936aa4bbae\transformed\jetified-play-services-location-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:19.0.0] C:\Users\vadim\.gradle\caches\transforms-3\4f258391c456cbd94b7712936aa4bbae\transformed\jetified-play-services-location-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\386c17e66fee01126451f28cb90f4432\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\386c17e66fee01126451f28cb90f4432\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\vadim\.gradle\caches\transforms-3\fd26d50e7957999afbab2c54252048cf\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\vadim\.gradle\caches\transforms-3\fd26d50e7957999afbab2c54252048cf\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\ca54f1610848e40ce80e24abf9897077\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\ca54f1610848e40ce80e24abf9897077\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\62081428a2b2f4baed0a046d340304a9\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\62081428a2b2f4baed0a046d340304a9\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\vadim\.gradle\caches\transforms-3\5c8c72a2890e58198cb0ad66ee0d5433\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\vadim\.gradle\caches\transforms-3\5c8c72a2890e58198cb0ad66ee0d5433\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\84a90df9fae8fd5e07e8ec6c986dd663\transformed\jetified-play-services-tasks-18.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\84a90df9fae8fd5e07e8ec6c986dd663\transformed\jetified-play-services-tasks-18.0.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\dbede45aa9e5a362e289e226fb831903\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\dbede45aa9e5a362e289e226fb831903\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\vadim\.gradle\caches\transforms-3\a79267366428329fd38c6647e8a87d9d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\vadim\.gradle\caches\transforms-3\a79267366428329fd38c6647e8a87d9d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\vadim\.gradle\caches\transforms-3\7d74ae1ac320fd3f2b5803dae59687dc\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\vadim\.gradle\caches\transforms-3\7d74ae1ac320fd3f2b5803dae59687dc\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\vadim\.gradle\caches\transforms-3\f1bf67ae1ee715f53605f72c5268f49e\transformed\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\vadim\.gradle\caches\transforms-3\f1bf67ae1ee715f53605f72c5268f49e\transformed\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\c28c5a1559d3badb5fe866be3f17f7bd\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\c28c5a1559d3badb5fe866be3f17f7bd\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\a9dd3aa6effdca4ee0ea00aced0d53e0\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\a9dd3aa6effdca4ee0ea00aced0d53e0\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\64dbb9b73a234f5769e476ac8b182df2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\64dbb9b73a234f5769e476ac8b182df2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\vadim\.gradle\caches\transforms-3\83f2a8cd51855de09144e28d17fb44a0\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\vadim\.gradle\caches\transforms-3\83f2a8cd51855de09144e28d17fb44a0\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\12a157cfe5a821e275ea4d597c93f11a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\12a157cfe5a821e275ea4d597c93f11a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\c6c76a0e5e4729466ddb6d8a1c7ba5c7\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\c6c76a0e5e4729466ddb6d8a1c7ba5c7\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\e66c5a28e5e036d8725b859789ded2ac\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\e66c5a28e5e036d8725b859789ded2ac\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\vadim\.gradle\caches\transforms-3\e5a9e26cebfa056af3786365f44dab3f\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\vadim\.gradle\caches\transforms-3\e5a9e26cebfa056af3786365f44dab3f\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\vadim\.gradle\caches\transforms-3\e352e8753dabd2d542aebab138dadcb9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\vadim\.gradle\caches\transforms-3\e352e8753dabd2d542aebab138dadcb9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\vadim\.gradle\caches\transforms-3\d06b5e8199902bf8c8840c4b34445b47\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\vadim\.gradle\caches\transforms-3\d06b5e8199902bf8c8840c4b34445b47\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\80898a9e8c1ed9a1bdaf237179aecac6\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\80898a9e8c1ed9a1bdaf237179aecac6\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\fdd20d3fe6e982a0dab3c7e285b8d31d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\fdd20d3fe6e982a0dab3c7e285b8d31d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\vadim\.gradle\caches\transforms-3\530cde7aaafc6c6131b47291903bcec3\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\vadim\.gradle\caches\transforms-3\530cde7aaafc6c6131b47291903bcec3\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\863b0b700e362afb70214928b7540f48\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\863b0b700e362afb70214928b7540f48\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\vadim\.gradle\caches\transforms-3\628769bcd175e0403afe19fd69a9f416\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\vadim\.gradle\caches\transforms-3\628769bcd175e0403afe19fd69a9f416\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\vadim\.gradle\caches\transforms-3\077c8b847a3309a378308438702c9b88\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\vadim\.gradle\caches\transforms-3\077c8b847a3309a378308438702c9b88\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\vadim\.gradle\caches\transforms-3\c5c5a3dde266f52e755c0ad0ba25044e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\vadim\.gradle\caches\transforms-3\c5c5a3dde266f52e755c0ad0ba25044e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vadim\.gradle\caches\transforms-3\0832a9555e0c6175c40259f1560fe40c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\vadim\.gradle\caches\transforms-3\0832a9555e0c6175c40259f1560fe40c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\vadim\.gradle\caches\transforms-3\b2fa4e10ca74b5a3f0ebb739154e7437\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\vadim\.gradle\caches\transforms-3\b2fa4e10ca74b5a3f0ebb739154e7437\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\827dbc1d303c18cb89039c3c20333671\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\827dbc1d303c18cb89039c3c20333671\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\5d72d0c22b62438a3421a13a70e97b23\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\5d72d0c22b62438a3421a13a70e97b23\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\vadim\.gradle\caches\transforms-3\0d4a8a54f7edd81d23f9ed38a70844a4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\vadim\.gradle\caches\transforms-3\0d4a8a54f7edd81d23f9ed38a70844a4\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\vadim\.gradle\caches\transforms-3\f4f27c3b12ee71678b3e0efe5d75e5ae\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\vadim\.gradle\caches\transforms-3\f4f27c3b12ee71678b3e0efe5d75e5ae\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\vadim\.gradle\caches\transforms-3\0410eaa78d8ab00f8762c6d04e3328b1\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\vadim\.gradle\caches\transforms-3\0410eaa78d8ab00f8762c6d04e3328b1\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\vadim\.gradle\caches\transforms-3\76561bc8247c3768b82ea9833a8c8b77\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\vadim\.gradle\caches\transforms-3\76561bc8247c3768b82ea9833a8c8b77\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\79da0cdddce596985ad110fbd0dbc3e3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\79da0cdddce596985ad110fbd0dbc3e3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\ee90e4b3025b83e4546e89a4d96edd27\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\ee90e4b3025b83e4546e89a4d96edd27\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\16df8798a26fcaa1eee984fb4ea6db53\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\16df8798a26fcaa1eee984fb4ea6db53\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\0b2c1379c6704d63de6a355ebf7abeed\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\0b2c1379c6704d63de6a355ebf7abeed\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\vadim\.gradle\caches\transforms-3\b6ff4410f368071900a33f0426f728c3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\vadim\.gradle\caches\transforms-3\b6ff4410f368071900a33f0426f728c3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vadim\Desktop\Weather\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\62081428a2b2f4baed0a046d340304a9\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\62081428a2b2f4baed0a046d340304a9\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\62081428a2b2f4baed0a046d340304a9\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\62081428a2b2f4baed0a046d340304a9\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\dbede45aa9e5a362e289e226fb831903\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\dbede45aa9e5a362e289e226fb831903\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\vadim\.gradle\caches\transforms-3\dbede45aa9e5a362e289e226fb831903\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\64dbb9b73a234f5769e476ac8b182df2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\vadim\.gradle\caches\transforms-3\b2fa4e10ca74b5a3f0ebb739154e7437\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\vadim\.gradle\caches\transforms-3\b2fa4e10ca74b5a3f0ebb739154e7437\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\827dbc1d303c18cb89039c3c20333671\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\827dbc1d303c18cb89039c3c20333671\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\64dbb9b73a234f5769e476ac8b182df2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\64dbb9b73a234f5769e476ac8b182df2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\64dbb9b73a234f5769e476ac8b182df2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\64dbb9b73a234f5769e476ac8b182df2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\64dbb9b73a234f5769e476ac8b182df2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\64dbb9b73a234f5769e476ac8b182df2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\vadim\.gradle\caches\transforms-3\64dbb9b73a234f5769e476ac8b182df2\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\vadim\.gradle\caches\transforms-3\b2fa4e10ca74b5a3f0ebb739154e7437\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\vadim\.gradle\caches\transforms-3\b2fa4e10ca74b5a3f0ebb739154e7437\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\vadim\.gradle\caches\transforms-3\b2fa4e10ca74b5a3f0ebb739154e7437\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
